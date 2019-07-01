@@ -1,0 +1,36 @@
+.bodyd tr:hover {
+  color: #607D8B;
+  background-color: #DDD;
+  left: .1em;
+}
+
+table {
+  width: 100%;
+  table-layout: fixed
+}
+
+.bodyd {
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: center;
+}
+
+img {
+  height: 60px;
+  width: 60px;
+}
+
+.mat-row:hover {
+  background-color: gray;
+}
+
+.mat-sort-header {
+  text-align: center;
+}

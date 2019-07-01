@@ -2,7 +2,7 @@
 
 Tento project bol vygenerovany [Angular CLI](https://github.com/angular/angular-cli) verzia 8.0.3.
 Projekt funguje pomocou GitHub REST API v3 bez oAuth, takze je limitovany rate-limitom.
-Na zistenie momentalne rate limit statusu: `https://api.github.com/rate_limit`.
+Na zistenie momentalneho rate limit statusu: `https://api.github.com/rate_limit`.
 
 
 ## Pred buildnutim rojektu
